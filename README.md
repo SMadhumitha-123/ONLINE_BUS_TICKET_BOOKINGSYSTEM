@@ -3,73 +3,90 @@
 ADVENTURA is a full-stack web application that modernizes the traditional bus ticket booking process by enabling passengers to search buses, select seats in real time, make secure online payments, and receive digital tickets instantly.
 
 ✨ Features
-1.User registration and secure login
-2.Real-time bus search by source, destination, date, and time
-3.Interactive seat selection (sleeper/semi-sleeper)
-4.Secure online payment and instant ticket generation
-5.Booking history and upcoming journey tracking
-6.Smart filters for fare, timing, seat type, amenities, and ratings
-7.Passenger safety features including CCTV surveillance information
-8.Admin dashboard to manage buses, routes, schedules, and bookings
+
+User registration and secure login
+
+Real-time bus search by source, destination, date, and time
+
+Interactive seat selection (sleeper/semi-sleeper)
+
+Secure online payment and instant ticket generation
+
+Booking history and upcoming journey tracking
+
+Smart filters for fare, timing, seat type, amenities, and ratings
+
+Passenger safety features including CCTV surveillance information
+
+Admin dashboard to manage buses, routes, schedules, and bookings
 
 🛠️ Technologies Used
-Backend-Java, Spring Boot
-Frontend-HTML, CSS
-Database-MySQL
-Tools-JDBC, SQL
-
+Layer	Technology
+Backend	Java, Spring Boot
+Frontend	HTML, CSS
+Database	MySQL
+Tools	JDBC, SQL
 👥 User Roles
 Passenger
-- Search and compare buses
-- Select seats and complete payments
-- Access digital tickets and booking history
+
+Search and compare buses
+
+Select seats and complete payments
+
+Access digital tickets and booking history
 
 Admin
-- Add/update buses, routes, and schedules
-- Manage seat layouts and monitor bookings
+
+Add/update buses, routes, and schedules
+
+Manage seat layouts and monitor bookings
 
 📂 Modules
 
-1.User Dashboard
-2.Bus & Route Management
-3.Seat Booking
-4.Payment & Ticket Generation
-5.Search & Filter
-6.Safety & Comfort Features
-7.Frontend UI (HTML/CSS)
-8.Database Management
+User Dashboard
+
+Bus & Route Management
+
+Seat Booking
+
+Payment & Ticket Generation
+
+Search & Filter
+
+Safety & Comfort Features
+
+Frontend UI (HTML/CSS)
+
+Database Management
 
 🖼️ Screenshots
 
-### Welcome Page
-![Welcome](screenshots/welcome.png)
+Upload images inside a folder named screenshots/
 
-### Login Page
-![Login](screenshots/login.png)
+Welcome Page
 
-### Sign Up Page
-![Signup](screenshots/signup.png)
+Login Page
 
-### Available Buses
-![Buses](screenshots/buses.png)
+Sign Up Page
 
-### Seat Selection
-![Seats](screenshots/seats.png)
+Available Buses
 
-### Booking Page
-![Booking](screenshots/booking.png)
+Seat Selection
 
-### Payment Page
-![Payment](screenshots/payment.png)
+Booking Page
 
-### Payment Receipt
-![Receipt](screenshots/receipt.png)
+Payment Page
 
+Payment Receipt
 
 🎯 Objectives
 
---Provide a user-friendly online ticket booking platform
---Reduce manual errors and waiting time
---Improve transport service efficiency
+Provide a user-friendly online ticket booking platform
 
-ADVENTURA provides a fast, secure, and user-friendly solution for managing bus travel bookings and enhances overall passenger experience.
+Reduce manual errors and waiting time
+
+Improve transport service efficiency
+
+📈 Conclusion
+
+ADVENTURA provides a fast, secure, and user-friendly solution for managing bus travel bookings and enhances the overall passenger experience.
