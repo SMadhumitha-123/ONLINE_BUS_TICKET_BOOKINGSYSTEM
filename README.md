@@ -23,8 +23,11 @@ Admin dashboard to manage buses, routes, schedules, and bookings
 🛠️ Technologies Used
 
 Backend-Java, Spring Boot
+
 Frontend-HTML, CSS
+
 Database-MySQL
+
 Tools-JDBC, SQL
 
 👥 User Roles
@@ -63,6 +66,29 @@ Database Management
 
 🖼️ Screenshots
 
+### Welcome Page
+![Welcome](screenshots/welcome.png)
+
+### Login Page
+![Login](screenshots/login.png)
+
+### Sign Up Page
+![Signup](screenshots/signup.png)
+
+### Available Buses
+![Buses](screenshots/buses.png)
+
+### Seat Selection
+![Seats](screenshots/seats.png)
+
+### Booking Page
+![Booking](screenshots/booking.png)
+
+### Payment Page
+![Payment](screenshots/payment.png)
+
+### Payment Receipt
+![Receipt](screenshots/receipt.png)
 
 🎯 Objectives
 
