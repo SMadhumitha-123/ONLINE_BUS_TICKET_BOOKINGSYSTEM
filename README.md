@@ -21,12 +21,14 @@ Passenger safety features including CCTV surveillance information
 Admin dashboard to manage buses, routes, schedules, and bookings
 
 🛠️ Technologies Used
-Layer	Technology
-Backend	Java, Spring Boot
-Frontend	HTML, CSS
-Database	MySQL
-Tools	JDBC, SQL
+
+Backend-Java, Spring Boot
+Frontend-HTML, CSS
+Database-MySQL
+Tools-JDBC, SQL
+
 👥 User Roles
+
 Passenger
 
 Search and compare buses
@@ -61,23 +63,6 @@ Database Management
 
 🖼️ Screenshots
 
-Upload images inside a folder named screenshots/
-
-Welcome Page
-
-Login Page
-
-Sign Up Page
-
-Available Buses
-
-Seat Selection
-
-Booking Page
-
-Payment Page
-
-Payment Receipt
 
 🎯 Objectives
 
