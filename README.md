@@ -67,28 +67,31 @@ Database Management
 🖼️ Screenshots
 
 ### Welcome Page
-![Welcome](screenshots/welcome.png)
+![Welcome](bus/welcome.png)
 
 ### Login Page
-![Login](screenshots/login.png)
+![Login](bus/login.png)
 
 ### Sign Up Page
-![Signup](screenshots/signup.png)
+![Signup](bus/signup.png)
+
+### About Page
+![About](bus/about.png)
 
 ### Available Buses
-![Buses](screenshots/buses.png)
+![Buses](bus/buses.png)
 
 ### Seat Selection
-![Seats](screenshots/seats.png)
+![Seats](bus/seats.png)
 
 ### Booking Page
-![Booking](screenshots/booking.png)
+![Booking](bus/booking.png)
 
 ### Payment Page
-![Payment](screenshots/payment.png)
+![Payment](bus/payment.png)
 
 ### Payment Receipt
-![Receipt](screenshots/receipt.png)
+![Receipt](bus/receipt.png)
 
 🎯 Objectives
 
